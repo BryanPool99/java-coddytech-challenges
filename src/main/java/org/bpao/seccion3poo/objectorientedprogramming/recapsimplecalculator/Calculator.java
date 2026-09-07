@@ -1,4 +1,4 @@
-package org.bpao.seccion3poo.recapsimplecalculator;
+package org.bpao.seccion3poo.objectorientedprogramming.recapsimplecalculator;
 
 public class Calculator {
     // TODO: Crear campos privados:

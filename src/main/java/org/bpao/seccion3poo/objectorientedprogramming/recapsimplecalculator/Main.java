@@ -1,4 +1,4 @@
-package org.bpao.seccion3poo.recapsimplecalculator;
+package org.bpao.seccion3poo.objectorientedprogramming.recapsimplecalculator;
 
 import java.util.Scanner;
 
