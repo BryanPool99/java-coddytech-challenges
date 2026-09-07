@@ -3,6 +3,7 @@
 
 Construye una clase Calculator completa que utilice todos los conceptos aprendidos:
 
+
 - Campos: Campos privados para name (String), memory (double), operationCount (int)
 - Constructores: Un constructor parametrizado y un constructor por defecto utilizando el encadenamiento this()
 - Palabra clave this: Usa this para asignar campos y acceder a ellos en los métodos
