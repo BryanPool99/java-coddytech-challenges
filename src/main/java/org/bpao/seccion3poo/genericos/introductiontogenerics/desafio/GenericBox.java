@@ -1,4 +1,4 @@
-package org.bpao.seccion3poo.genericos.introduction_to_generics.desafio;
+package org.bpao.seccion3poo.genericos.introductiontogenerics.desafio;
 
 // GenericBox.java - El enfoque moderno y seguro en tipos usando genéricos
 // TODO: Declara la clase con un parámetro de tipo T

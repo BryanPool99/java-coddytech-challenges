@@ -1,4 +1,4 @@
-package org.bpao.seccion3poo.genericos.introduction_to_generics.desafio;
+package org.bpao.seccion3poo.genericos.introductiontogenerics.desafio;
 
 // OldBox.java - El enfoque pre-genéricos usando Object
 public class OldBox {
